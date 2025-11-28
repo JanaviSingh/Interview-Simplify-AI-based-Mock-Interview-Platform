@@ -1,4 +1,3 @@
----
 
 # **Interview Simplify – AI-based Mock Interview Platform**
 
